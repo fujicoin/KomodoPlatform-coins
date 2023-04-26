@@ -318,6 +318,9 @@
         "nodes": [
             {
                 "url": "https://rpc-mainnet.kcc.network"
+            },
+            {
+                "url": "https://kcc-rpc.com"
             }
         ]
     },
@@ -714,6 +717,9 @@
         "nodes": [
             {
                 "url": "https://rpc-mainnet.kcc.network"
+            },
+            {
+                "url": "https://kcc-rpc.com"
             }
         ]
     },
@@ -811,6 +817,12 @@
                 "protocol": "SSL",
                 "disable_cert_verification": false,
                 "ws_url": "electrumx-four.artbyte.live:50013"
+            },
+            {
+                "url": "electrumx-three.artbyte.live:50012",
+                "protocol": "SSL",
+                "disable_cert_verification": false,
+                "ws_url": "electrumx-three.artbyte.live:50013"
             }
         ]
     },
@@ -1031,7 +1043,7 @@
         "mm2": 1,
         "chain_id": 43114,
         "decimals": 18,
-        "avg_blocktime": 0.04,
+        "avg_blocktime": 2.4,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -1074,7 +1086,7 @@
         "mm2": 1,
         "chain_id": 1,
         "decimals": 18,
-        "avg_blocktime": 0.25,
+        "avg_blocktime": 15,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -1151,7 +1163,7 @@
         "mm2": 1,
         "chain_id": 137,
         "decimals": 18,
-        "avg_blocktime": 0.03,
+        "avg_blocktime": 1.8,
         "required_confirmations": 20,
         "protocol": {
             "type": "ERC20",
@@ -3045,6 +3057,9 @@
         "nodes": [
             {
                 "url": "https://rpc-mainnet.kcc.network"
+            },
+            {
+                "url": "https://kcc-rpc.com"
             }
         ]
     },
@@ -3593,6 +3608,9 @@
         "nodes": [
             {
                 "url": "https://rpc-mainnet.kcc.network"
+            },
+            {
+                "url": "https://kcc-rpc.com"
             }
         ]
     },
@@ -4491,7 +4509,7 @@
         "name": "Bitnet",
         "coinpaprika_id": "bit-bitnet",
         "coingecko_id": "",
-        "livecoinwatch_id": "",
+        "livecoinwatch_id": "________BIT",
         "explorer_url": "http://bitexplorer.io/",
         "explorer_tx_url": "",
         "explorer_address_url": "",
@@ -4511,7 +4529,7 @@
         "bech32_hrp": "bit",
         "mm2": 1,
         "required_confirmations": 1,
-        "avg_blocktime": 10,
+        "avg_blocktime": 600,
         "protocol": {
             "type": "UTXO"
         },
@@ -6624,7 +6642,7 @@
         "mm2": 1,
         "chain_id": 43114,
         "required_confirmations": 3,
-        "avg_blocktime": 0.04,
+        "avg_blocktime": 2.4,
         "decimals": 18,
         "protocol": {
             "type": "ERC20",
@@ -7712,7 +7730,7 @@
         "mm2": 1,
         "chain_id": 56,
         "decimals": 18,
-        "avg_blocktime": 0.05,
+        "avg_blocktime": 3,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -8159,6 +8177,9 @@
         "nodes": [
             {
                 "url": "https://rpc-mainnet.kcc.network"
+            },
+            {
+                "url": "https://kcc-rpc.com"
             }
         ]
     },
@@ -8471,6 +8492,9 @@
         "nodes": [
             {
                 "url": "https://rpc-mainnet.kcc.network"
+            },
+            {
+                "url": "https://kcc-rpc.com"
             }
         ]
     },
@@ -8633,6 +8657,9 @@
         "nodes": [
             {
                 "url": "https://rpc-mainnet.kcc.network"
+            },
+            {
+                "url": "https://kcc-rpc.com"
             }
         ]
     },
@@ -8881,6 +8908,9 @@
         "nodes": [
             {
                 "url": "https://rpc-mainnet.kcc.network"
+            },
+            {
+                "url": "https://kcc-rpc.com"
             }
         ]
     },
@@ -9113,7 +9143,7 @@
         "mm2": 1,
         "chain_id": 1,
         "decimals": 18,
-        "avg_blocktime": 0.25,
+        "avg_blocktime": 15,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -10707,6 +10737,9 @@
         "nodes": [
             {
                 "url": "https://rpc-mainnet.kcc.network"
+            },
+            {
+                "url": "https://kcc-rpc.com"
             }
         ]
     },
@@ -11184,17 +11217,6 @@
                     }
                 ],
                 "ws-url": "big-parrot-60.doi.works:50004"
-            },
-            {
-                "url": "itchy-jellyfish-89.doi.works:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "github": "https://github.com/doichain/electrum-doi/issues",
-                        "twitter": "example_username"
-                    }
-                ],
-                "ws-url": "itchy-jellyfish-89.doi.works:50004"
             },
             {
                 "url": "pink-deer-69.doi.works:50002",
@@ -11888,6 +11910,9 @@
         "nodes": [
             {
                 "url": "https://rpc-mainnet.kcc.network"
+            },
+            {
+                "url": "https://kcc-rpc.com"
             }
         ]
     },
@@ -12424,6 +12449,9 @@
         "nodes": [
             {
                 "url": "https://rpc-mainnet.kcc.network"
+            },
+            {
+                "url": "https://kcc-rpc.com"
             }
         ]
     },
@@ -12493,7 +12521,7 @@
         "mm2": 1,
         "chain_id": 1,
         "decimals": 6,
-        "avg_blocktime": 0.25,
+        "avg_blocktime": 15,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -12701,7 +12729,7 @@
         "mm2": 1,
         "chain_id": 1,
         "decimals": 18,
-        "avg_blocktime": 0.25,
+        "avg_blocktime": 15,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -13018,7 +13046,7 @@
         "mm2": 1,
         "chain_id": 1,
         "decimals": 18,
-        "avg_blocktime": 0.25,
+        "avg_blocktime": 15,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -14174,7 +14202,7 @@
         "mm2": 1,
         "chain_id": 56,
         "decimals": 18,
-        "avg_blocktime": 0.05,
+        "avg_blocktime": 3,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -14233,7 +14261,7 @@
         "mm2": 1,
         "chain_id": 1,
         "decimals": 18,
-        "avg_blocktime": 0.25,
+        "avg_blocktime": 15,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -14310,7 +14338,7 @@
         "mm2": 1,
         "chain_id": 137,
         "decimals": 18,
-        "avg_blocktime": 0.03,
+        "avg_blocktime": 1.8,
         "required_confirmations": 20,
         "protocol": {
             "type": "ERC20",
@@ -14356,7 +14384,7 @@
         "mm2": 1,
         "chain_id": 43114,
         "decimals": 18,
-        "avg_blocktime": 0.04,
+        "avg_blocktime": 2.4,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -14399,7 +14427,7 @@
         "mm2": 1,
         "chain_id": 1285,
         "decimals": 18,
-        "avg_blocktime": 0.25,
+        "avg_blocktime": 15,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -14441,7 +14469,7 @@
         "mm2": 1,
         "chain_id": 250,
         "decimals": 18,
-        "avg_blocktime": 0.03,
+        "avg_blocktime": 1.8,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -14620,7 +14648,7 @@
         "mm2": 1,
         "chain_id": 56,
         "decimals": 18,
-        "avg_blocktime": 0.05,
+        "avg_blocktime": 3,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -15197,7 +15225,7 @@
         "mm2": 1,
         "chain_id": 137,
         "decimals": 18,
-        "avg_blocktime": 0.03,
+        "avg_blocktime": 1.8,
         "required_confirmations": 20,
         "protocol": {
             "type": "ERC20",
@@ -15266,6 +15294,16 @@
                 ]
             },
             {
+                "url": "au.garlium.crapules.org:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "orpheas#1503"
+                    }
+                ]
+            },
+            {
                 "url": "ca.garlium.crapules.org:50002",
                 "protocol": "SSL",
                 "disable_cert_verification": true,
@@ -15284,6 +15322,16 @@
                     }
                 ],
                 "ws_url": "electrum.maxpuig.com:50004"
+            },
+            {
+                "url": "fr.garlium.crapules.org:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "orpheas#1503"
+                    }
+                ]
             },
             {
                 "url": "pl.garlium.crapules.org:50002",
@@ -15603,6 +15651,18 @@
             {
                 "url": "electrum20.groestlcoin.org:50001",
                 "ws_url": "electrum20.groestlcoin.org:50004",
+                "contact": [
+                    {
+                        "email": "jackielove4u@hotmail.com"
+                    },
+                    {
+                        "discord": "jackielove4u#0412"
+                    }
+                ]
+            },
+            {
+                "url": "electrum21.groestlcoin.org:50001",
+                "ws_url": "electrum21.groestlcoin.org:50004",
                 "contact": [
                     {
                         "email": "jackielove4u@hotmail.com"
@@ -16102,6 +16162,18 @@
                 ]
             },
             {
+                "url": "electrum21.groestlcoin.org:50001",
+                "ws_url": "electrum21.groestlcoin.org:50004",
+                "contact": [
+                    {
+                        "email": "jackielove4u@hotmail.com"
+                    },
+                    {
+                        "discord": "jackielove4u#0412"
+                    }
+                ]
+            },
+            {
                 "url": "electrum22.groestlcoin.org:50001",
                 "ws_url": "electrum22.groestlcoin.org:50004",
                 "contact": [
@@ -16578,6 +16650,9 @@
         "nodes": [
             {
                 "url": "https://rpc-mainnet.kcc.network"
+            },
+            {
+                "url": "https://kcc-rpc.com"
             }
         ]
     },
@@ -16706,7 +16781,7 @@
         "mm2": 1,
         "chain_id": 1,
         "decimals": 18,
-        "avg_blocktime": 0.25,
+        "avg_blocktime": 15,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -16783,7 +16858,7 @@
         "mm2": 1,
         "chain_id": 1,
         "decimals": 2,
-        "avg_blocktime": 0.25,
+        "avg_blocktime": 15,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -17464,6 +17539,9 @@
         "nodes": [
             {
                 "url": "https://rpc-mainnet.kcc.network"
+            },
+            {
+                "url": "https://kcc-rpc.com"
             }
         ]
     },
@@ -17589,6 +17667,66 @@
                     }
                 ],
                 "ws_url": "il9p.electrumx.transcenders.name:50003"
+            }
+        ]
+    },
+    "ILN": {
+        "coin": "ILN",
+        "type": "Smart Chain",
+        "name": "Ilien",
+        "coinpaprika_id": "iln-ilien9195",
+        "coingecko_id": "",
+        "livecoinwatch_id": "ILN",
+        "explorer_url": "https://explorer.ilien.io/",
+        "explorer_tx_url": "",
+        "explorer_address_url": "",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Komodo Signed Message:\n",
+        "asset": "ILN",
+        "fname": "Ilien",
+        "rpcport": 12986,
+        "txversion": 4,
+        "overwintered": 1,
+        "mm2": 1,
+        "p2p": 12985,
+        "magic": "feb4cb23",
+        "nSPV": "5.9.102.210, 5.9.253.195, 5.9.253.196, 5.9.253.197, 5.9.253.198, 5.9.253.199, 5.9.253.200, 5.9.253.201, 5.9.253.202, 5.9.253.203",
+        "required_confirmations": 2,
+        "requires_notarization": true,
+        "avg_blocktime": 60,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/141'",
+        "trezor_coin": "Komodo",
+        "electrum": [
+            {
+                "url": "electrum1.ilien.io:65011",
+                "contact": [
+                    {
+                        "email": "admin@ilien.io"
+                    },
+                    {
+                        "discord": "siu - Chainmakers#3920"
+                    }
+                ],
+                "ws_url": "electrum1.ilien.io:30069"
+            },
+            {
+                "url": "electrum2.ilien.io:65011",
+                "contact": [
+                    {
+                        "email": "admin@ilien.io"
+                    },
+                    {
+                        "discord": "siu - Chainmakers#3920"
+                    }
+                ],
+                "ws_url": "electrum2.ilien.io:30069"
             }
         ]
     },
@@ -17763,7 +17901,7 @@
         "mm2": 1,
         "chain_id": 1,
         "decimals": 18,
-        "avg_blocktime": 0.25,
+        "avg_blocktime": 15,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -17840,7 +17978,7 @@
         "mm2": 1,
         "chain_id": 56,
         "decimals": 18,
-        "avg_blocktime": 0.05,
+        "avg_blocktime": 3,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -17899,7 +18037,7 @@
         "mm2": 1,
         "chain_id": 1,
         "decimals": 18,
-        "avg_blocktime": 0.25,
+        "avg_blocktime": 15,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -18330,7 +18468,7 @@
         "mm2": 1,
         "chain_id": 137,
         "decimals": 18,
-        "avg_blocktime": 0.03,
+        "avg_blocktime": 1.8,
         "required_confirmations": 20,
         "protocol": {
             "type": "ERC20",
@@ -18377,7 +18515,7 @@
         "mm2": 1,
         "chain_id": 56,
         "decimals": 18,
-        "avg_blocktime": 0.05,
+        "avg_blocktime": 3,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -18437,7 +18575,7 @@
         "mm2": 1,
         "chain_id": 137,
         "decimals": 18,
-        "avg_blocktime": 0.03,
+        "avg_blocktime": 1.8,
         "required_confirmations": 20,
         "protocol": {
             "type": "ERC20",
@@ -18484,7 +18622,7 @@
         "mm2": 1,
         "chain_id": 137,
         "decimals": 18,
-        "avg_blocktime": 0.03,
+        "avg_blocktime": 1.8,
         "required_confirmations": 20,
         "protocol": {
             "type": "ERC20",
@@ -18531,7 +18669,7 @@
         "mm2": 1,
         "chain_id": 43114,
         "decimals": 18,
-        "avg_blocktime": 0.04,
+        "avg_blocktime": 2.4,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -18574,7 +18712,7 @@
         "mm2": 1,
         "chain_id": 56,
         "decimals": 18,
-        "avg_blocktime": 0.05,
+        "avg_blocktime": 3,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -18758,7 +18896,7 @@
         "mm2": 1,
         "chain_id": 137,
         "decimals": 18,
-        "avg_blocktime": 0.03,
+        "avg_blocktime": 1.8,
         "required_confirmations": 20,
         "protocol": {
             "type": "ERC20",
@@ -18805,7 +18943,7 @@
         "mm2": 1,
         "chain_id": 43114,
         "decimals": 18,
-        "avg_blocktime": 0.04,
+        "avg_blocktime": 2.4,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -18848,7 +18986,7 @@
         "mm2": 1,
         "chain_id": 56,
         "decimals": 18,
-        "avg_blocktime": 0.05,
+        "avg_blocktime": 3,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -19032,7 +19170,7 @@
         "mm2": 1,
         "chain_id": 56,
         "decimals": 18,
-        "avg_blocktime": 0.05,
+        "avg_blocktime": 3,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -19216,7 +19354,7 @@
         "mm2": 1,
         "chain_id": 137,
         "decimals": 18,
-        "avg_blocktime": 0.03,
+        "avg_blocktime": 1.8,
         "required_confirmations": 20,
         "protocol": {
             "type": "ERC20",
@@ -19310,7 +19448,7 @@
         "mm2": 1,
         "chain_id": 137,
         "decimals": 18,
-        "avg_blocktime": 0.03,
+        "avg_blocktime": 1.8,
         "required_confirmations": 20,
         "protocol": {
             "type": "ERC20",
@@ -19357,7 +19495,7 @@
         "mm2": 1,
         "chain_id": 137,
         "decimals": 18,
-        "avg_blocktime": 0.03,
+        "avg_blocktime": 1.8,
         "required_confirmations": 20,
         "protocol": {
             "type": "ERC20",
@@ -19404,7 +19542,7 @@
         "mm2": 1,
         "chain_id": 137,
         "decimals": 18,
-        "avg_blocktime": 0.03,
+        "avg_blocktime": 1.8,
         "required_confirmations": 20,
         "protocol": {
             "type": "ERC20",
@@ -19451,7 +19589,7 @@
         "mm2": 1,
         "chain_id": 137,
         "decimals": 18,
-        "avg_blocktime": 0.03,
+        "avg_blocktime": 1.8,
         "required_confirmations": 20,
         "protocol": {
             "type": "ERC20",
@@ -19498,7 +19636,7 @@
         "mm2": 1,
         "chain_id": 137,
         "decimals": 18,
-        "avg_blocktime": 0.03,
+        "avg_blocktime": 1.8,
         "required_confirmations": 20,
         "protocol": {
             "type": "ERC20",
@@ -19758,7 +19896,7 @@
         "mm2": 1,
         "chain_id": 137,
         "decimals": 18,
-        "avg_blocktime": 0.03,
+        "avg_blocktime": 1.8,
         "required_confirmations": 20,
         "protocol": {
             "type": "ERC20",
@@ -19805,7 +19943,7 @@
         "mm2": 1,
         "chain_id": 137,
         "decimals": 18,
-        "avg_blocktime": 0.03,
+        "avg_blocktime": 1.8,
         "required_confirmations": 20,
         "protocol": {
             "type": "ERC20",
@@ -19852,7 +19990,7 @@
         "mm2": 1,
         "chain_id": 137,
         "decimals": 18,
-        "avg_blocktime": 0.03,
+        "avg_blocktime": 1.8,
         "required_confirmations": 20,
         "protocol": {
             "type": "ERC20",
@@ -19946,7 +20084,7 @@
         "mm2": 1,
         "chain_id": 56,
         "decimals": 18,
-        "avg_blocktime": 0.05,
+        "avg_blocktime": 3,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -20123,6 +20261,9 @@
         "nodes": [
             {
                 "url": "https://rpc-mainnet.kcc.network"
+            },
+            {
+                "url": "https://kcc-rpc.com"
             }
         ]
     },
@@ -21465,6 +21606,9 @@
         "nodes": [
             {
                 "url": "https://rpc-mainnet.kcc.network"
+            },
+            {
+                "url": "https://kcc-rpc.com"
             }
         ]
     },
@@ -21798,10 +21942,6 @@
             {
                 "url": "electrumx2.widecoin.org:50001",
                 "protocol": "TCP"
-            },
-            {
-                "url": "electrumx3.widecoin.org:50001",
-                "protocol": "TCP"
             }
         ]
     },
@@ -21846,10 +21986,6 @@
             },
             {
                 "url": "electrumx2.widecoin.org:50001",
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrumx3.widecoin.org:50001",
                 "protocol": "TCP"
             }
         ]
@@ -22594,6 +22730,9 @@
         "nodes": [
             {
                 "url": "https://rpc-mainnet.kcc.network"
+            },
+            {
+                "url": "https://kcc-rpc.com"
             }
         ]
     },
@@ -22663,7 +22802,7 @@
         "mm2": 1,
         "chain_id": 56,
         "decimals": 18,
-        "avg_blocktime": 0.05,
+        "avg_blocktime": 3,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -22722,7 +22861,7 @@
         "mm2": 1,
         "chain_id": 1,
         "decimals": 18,
-        "avg_blocktime": 0.25,
+        "avg_blocktime": 15,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -22799,7 +22938,7 @@
         "mm2": 1,
         "chain_id": 137,
         "decimals": 18,
-        "avg_blocktime": 0.03,
+        "avg_blocktime": 1.8,
         "required_confirmations": 20,
         "protocol": {
             "type": "ERC20",
@@ -22882,7 +23021,7 @@
         "mm2": 1,
         "chain_id": 137,
         "avg_blocktime": 1.8,
-        "required_confirmations": 3,
+        "required_confirmations": 20,
         "protocol": {
             "type": "ETH"
         },
@@ -23119,6 +23258,9 @@
         "nodes": [
             {
                 "url": "https://rpc-mainnet.kcc.network"
+            },
+            {
+                "url": "https://kcc-rpc.com"
             }
         ]
     },
@@ -23264,7 +23406,7 @@
         "name": "Marmara Credit Loops",
         "coinpaprika_id": "mcl-marmara-credit-loops",
         "coingecko_id": "",
-        "livecoinwatch_id": "",
+        "livecoinwatch_id": "_MCL",
         "explorer_url": "http://explorer.marmara.io/",
         "explorer_tx_url": "",
         "explorer_address_url": "",
@@ -24114,6 +24256,9 @@
         "nodes": [
             {
                 "url": "https://rpc-mainnet.kcc.network"
+            },
+            {
+                "url": "https://kcc-rpc.com"
             }
         ]
     },
@@ -24427,9 +24572,6 @@
         "electrum": [
             {
                 "url": "133.167.67.203:50001"
-            },
-            {
-                "url": "electrumx.tamami-foundation.org:50001"
             }
         ]
     },
@@ -24477,9 +24619,6 @@
         "electrum": [
             {
                 "url": "133.167.67.203:50001"
-            },
-            {
-                "url": "electrumx.tamami-foundation.org:50001"
             }
         ]
     },
@@ -25121,6 +25260,9 @@
         "nodes": [
             {
                 "url": "https://rpc-mainnet.kcc.network"
+            },
+            {
+                "url": "https://kcc-rpc.com"
             }
         ]
     },
@@ -26482,6 +26624,9 @@
         "nodes": [
             {
                 "url": "https://rpc-mainnet.kcc.network"
+            },
+            {
+                "url": "https://kcc-rpc.com"
             }
         ]
     },
@@ -26778,7 +26923,7 @@
         "mm2": 1,
         "chain_id": 1,
         "decimals": 18,
-        "avg_blocktime": 0.25,
+        "avg_blocktime": 15,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -26855,7 +27000,7 @@
         "mm2": 1,
         "chain_id": 137,
         "decimals": 18,
-        "avg_blocktime": 0.03,
+        "avg_blocktime": 1.8,
         "required_confirmations": 20,
         "protocol": {
             "type": "ERC20",
@@ -27405,9 +27550,28 @@
                 ]
             },
             {
+                "url": "txserver.live:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "PRUX-Coin#1668"
+                    }
+                ]
+            },
+            {
                 "url": "electrumx.live:50012",
                 "protocol": "SSL",
                 "ws_url": "electrumx.live:30010",
+                "contact": [
+                    {
+                        "discord": "PRUX-Coin#1668"
+                    }
+                ]
+            },
+            {
+                "url": "txserver.live:50002",
+                "protocol": "SSL",
+                "ws_url": "txserver.live:30001",
                 "contact": [
                     {
                         "discord": "PRUX-Coin#1668"
@@ -27590,6 +27754,9 @@
         "nodes": [
             {
                 "url": "https://rpc-mainnet.kcc.network"
+            },
+            {
+                "url": "https://kcc-rpc.com"
             }
         ]
     },
@@ -28188,6 +28355,9 @@
         "nodes": [
             {
                 "url": "https://rpc-mainnet.kcc.network"
+            },
+            {
+                "url": "https://kcc-rpc.com"
             }
         ]
     },
@@ -29051,7 +29221,7 @@
         "mm2": 1,
         "chain_id": 1,
         "decimals": 18,
-        "avg_blocktime": 0.25,
+        "avg_blocktime": 15,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -29128,7 +29298,7 @@
         "mm2": 1,
         "chain_id": 137,
         "decimals": 18,
-        "avg_blocktime": 0.03,
+        "avg_blocktime": 1.8,
         "required_confirmations": 20,
         "protocol": {
             "type": "ERC20",
@@ -29265,13 +29435,13 @@
         "name": "NFTX",
         "coinpaprika_id": "",
         "coingecko_id": "",
-        "livecoinwatch_id": "",
+        "livecoinwatch_id": "_NFTX",
         "explorer_url": "https://explorer.nftx.pw/",
         "explorer_tx_url": "",
         "explorer_address_url": "",
         "supported": [],
         "active": false,
-        "is_testnet": true,
+        "is_testnet": false,
         "currently_enabled": false,
         "wallet_only": false,
         "sign_message_prefix": "Komodo Signed Message:\n",
@@ -29281,7 +29451,7 @@
         "txversion": 4,
         "overwintered": 1,
         "mm2": 1,
-        "required_confirmations": 1,
+        "required_confirmations": 4,
         "requires_notarization": false,
         "avg_blocktime": 60,
         "protocol": {
@@ -29874,7 +30044,7 @@
         "mm2": 1,
         "chain_id": 1,
         "decimals": 18,
-        "avg_blocktime": 0.25,
+        "avg_blocktime": 15,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -29951,7 +30121,7 @@
         "mm2": 1,
         "chain_id": 137,
         "decimals": 18,
-        "avg_blocktime": 0.03,
+        "avg_blocktime": 1.8,
         "required_confirmations": 20,
         "protocol": {
             "type": "ERC20",
@@ -29997,7 +30167,7 @@
         "mm2": 1,
         "chain_id": 1,
         "decimals": 18,
-        "avg_blocktime": 0.25,
+        "avg_blocktime": 15,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -30607,7 +30777,7 @@
         "mm2": 1,
         "chain_id": 56,
         "decimals": 8,
-        "avg_blocktime": 0.05,
+        "avg_blocktime": 3,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -30908,6 +31078,9 @@
         "nodes": [
             {
                 "url": "https://rpc-mainnet.kcc.network"
+            },
+            {
+                "url": "https://kcc-rpc.com"
             }
         ]
     },
@@ -31838,6 +32011,9 @@
         "nodes": [
             {
                 "url": "https://rpc-mainnet.kcc.network"
+            },
+            {
+                "url": "https://kcc-rpc.com"
             }
         ]
     },
@@ -32801,6 +32977,9 @@
         "nodes": [
             {
                 "url": "https://rpc-mainnet.kcc.network"
+            },
+            {
+                "url": "https://kcc-rpc.com"
             }
         ]
     },
@@ -33302,7 +33481,7 @@
         "rpcport": 80,
         "mm2": 1,
         "chain_id": 56,
-        "avg_blocktime": 0.05,
+        "avg_blocktime": 3,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -33786,7 +33965,7 @@
         "mm2": 1,
         "chain_id": 43114,
         "decimals": 18,
-        "avg_blocktime": 0.04,
+        "avg_blocktime": 2.4,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -33829,7 +34008,7 @@
         "mm2": 1,
         "chain_id": 250,
         "decimals": 18,
-        "avg_blocktime": 0.03,
+        "avg_blocktime": 1.8,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -33927,6 +34106,9 @@
         "nodes": [
             {
                 "url": "https://rpc-mainnet.kcc.network"
+            },
+            {
+                "url": "https://kcc-rpc.com"
             }
         ]
     },
@@ -33996,7 +34178,7 @@
         "mm2": 1,
         "chain_id": 56,
         "decimals": 18,
-        "avg_blocktime": 0.05,
+        "avg_blocktime": 3,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -34622,6 +34804,9 @@
         "nodes": [
             {
                 "url": "https://rpc-mainnet.kcc.network"
+            },
+            {
+                "url": "https://kcc-rpc.com"
             }
         ]
     },
@@ -34783,7 +34968,7 @@
         "mm2": 1,
         "chain_id": 43114,
         "required_confirmations": 3,
-        "avg_blocktime": 0.04,
+        "avg_blocktime": 2.4,
         "decimals": 6,
         "protocol": {
             "type": "ERC20",
@@ -35062,6 +35247,9 @@
         "nodes": [
             {
                 "url": "https://rpc-mainnet.kcc.network"
+            },
+            {
+                "url": "https://kcc-rpc.com"
             }
         ]
     },
@@ -35173,7 +35361,7 @@
         "mm2": 1,
         "chain_id": 56,
         "decimals": 18,
-        "avg_blocktime": 0.05,
+        "avg_blocktime": 3,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -35232,7 +35420,7 @@
         "mm2": 1,
         "chain_id": 1,
         "decimals": 18,
-        "avg_blocktime": 0.25,
+        "avg_blocktime": 15,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -35449,6 +35637,9 @@
         "nodes": [
             {
                 "url": "https://rpc-mainnet.kcc.network"
+            },
+            {
+                "url": "https://kcc-rpc.com"
             }
         ]
     },
@@ -35604,7 +35795,7 @@
         "mm2": 1,
         "chain_id": 43114,
         "required_confirmations": 3,
-        "avg_blocktime": 0.04,
+        "avg_blocktime": 2.4,
         "decimals": 6,
         "protocol": {
             "type": "ERC20",
@@ -36247,6 +36438,52 @@
         ],
         "token_address_url": "tokentxns?a="
     },
+    "VRM": {
+        "coin": "VRM",
+        "type": "UTXO",
+        "name": "Verium Reserve",
+        "coinpaprika_id": "vrm-veriumreserve",
+        "coingecko_id": "",
+        "livecoinwatch_id": "VRM",
+        "explorer_url": "https://explorer-vrm.vericonomy.com/",
+        "explorer_tx_url": "",
+        "explorer_address_url": "",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "fname": "Verium Reserve",
+        "rpcport": 33987,
+        "pubtype": 70,
+        "p2shtype": 132,
+        "wiftype": 198,
+        "txfee": 100000,
+        "force_min_relay_fee": true,
+        "isPoS": 1,
+        "mm2": 1,
+        "required_confirmations": 2,
+        "avg_blocktime": 240,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "electrum": [
+            {
+                "url": "electrum01-vrm.vericonomy.com:50001",
+                "contact": [
+                    {
+                        "email": "dev@vericoin.info"
+                    },
+                    {
+                        "twitter": "vericonomy"
+                    },
+                    {
+                        "github": "VeriConomy"
+                    }
+                ]
+            }
+        ]
+    },
     "VRSC": {
         "coin": "VRSC",
         "type": "Smart Chain",
@@ -36529,7 +36766,7 @@
         "type": "Smart Chain",
         "name": "Vaporum",
         "coinpaprika_id": "vprm-vaporum-coin",
-        "coingecko_id": "",
+        "coingecko_id": "vaporum-coin",
         "livecoinwatch_id": "VPRM",
         "explorer_url": "http://explorer.vaporumcoin.us/",
         "explorer_tx_url": "",
@@ -36547,7 +36784,7 @@
         "overwintered": 1,
         "mm2": 1,
         "required_confirmations": 5,
-        "avg_blocktime": 1,
+        "avg_blocktime": 30,
         "protocol": {
             "type": "UTXO"
         },
@@ -36827,7 +37064,7 @@
         "mm2": 1,
         "chain_id": 137,
         "decimals": 8,
-        "avg_blocktime": 0.03,
+        "avg_blocktime": 1.8,
         "required_confirmations": 20,
         "protocol": {
             "type": "ERC20",
@@ -37246,7 +37483,7 @@
         "mm2": 1,
         "chain_id": 1,
         "decimals": 18,
-        "avg_blocktime": 0.25,
+        "avg_blocktime": 15,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -37323,7 +37560,7 @@
         "mm2": 1,
         "chain_id": 56,
         "decimals": 18,
-        "avg_blocktime": 0.05,
+        "avg_blocktime": 3,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -37441,7 +37678,7 @@
         "mm2": 1,
         "chain_id": 1,
         "decimals": 6,
-        "avg_blocktime": 0.25,
+        "avg_blocktime": 15,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -37519,7 +37756,7 @@
         "mm2": 1,
         "chain_id": 137,
         "decimals": 6,
-        "avg_blocktime": 0.03,
+        "avg_blocktime": 1.8,
         "required_confirmations": 20,
         "protocol": {
             "type": "ERC20",
@@ -37872,7 +38109,7 @@
         "mm2": 1,
         "chain_id": 1,
         "decimals": 18,
-        "avg_blocktime": 0.25,
+        "avg_blocktime": 15,
         "required_confirmations": 3,
         "protocol": {
             "type": "ERC20",
@@ -38357,7 +38594,7 @@
         "force_min_relay_fee": true,
         "mm2": 1,
         "required_confirmations": 10,
-        "avg_blocktime": 0.5,
+        "avg_blocktime": 30,
         "protocol": {
             "type": "UTXO"
         },
@@ -38688,6 +38925,9 @@
         "nodes": [
             {
                 "url": "https://rpc-mainnet.kcc.network"
+            },
+            {
+                "url": "https://kcc-rpc.com"
             }
         ]
     },
@@ -43161,7 +43401,7 @@
         "explorer_address_url": "",
         "supported": [],
         "active": false,
-        "is_testnet": true,
+        "is_testnet": false,
         "currently_enabled": false,
         "wallet_only": true,
         "sign_message_prefix": "Komodo Signed Message:\n",
